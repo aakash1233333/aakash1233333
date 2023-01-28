@@ -1,5 +1,5 @@
 - 👋 Hi, I’m AAKASH GANDHI 
-- 👀 Passionate in  Frontend development and currently exploring all the fields.
+- 👀 Passionate in  Frontend development and currently exploring all the tech related fields.
 - 🌱 I’m currently pursuing B.tech from Maharaja Agarsen institute of technology.
 - 📫 How to reach me 
 aakashgandhiii4@gmail.com
