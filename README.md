@@ -1,8 +1,9 @@
-- 👋 Hi, I’m AAKASH GANDHI 
+- 👋 *Hi, I’m AAKASH GANDHI*
 - 👀 Passionate in  Frontend development and currently exploring all the tech related fields.
 - 🌱 I’m currently pursuing B.tech from Maharaja Agarsen institute of technology.
 - 📫 How to reach me 
 aakashgandhiii4@gmail.com
+- ✨ Data Structures and Algorithms in C++
 
 <!---
 aakash1233333/aakash1233333 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
